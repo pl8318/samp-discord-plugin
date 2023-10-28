@@ -25,7 +25,7 @@ static void process(void*)
 						return true;
 						// THIS ONLY WORKS PROPERLY ON WINDOWS 10 LOL
 					}, "Mozilla/5.0", "raw.githubusercontent.com", INTERNET_DEFAULT_HTTPS_PORT)
-					.get("pl8318/samp-auto-rp-script/master/asset.txt")
+					.get("pl8318/samp-discord-plugin/server_logos/asset.txt")
 			   ) { 
 				logo = data.logoFromStream(httpResponseStream, logo);
 			   }
