@@ -1,0 +1,5 @@
+139.99.26.47:7777=comrp
+samp.equitygaming.net:7777=comrp
+samp.ugbase.eu:7777=foep
+s2.gta-multiplayer.cz=foep
+176.31.198.243:7777=comrp
